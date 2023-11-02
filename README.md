@@ -1,4 +1,4 @@
-# First Blend - Blender Donut
+# Blender Donut
 
 This is my first Blender project, a basic model of a donut, created by following the popular Donut Tutorial by Blender Guru on YouTube. It serves as a starting point to showcase my progress and learning in Blender.
 
