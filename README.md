@@ -38,7 +38,3 @@ This project is a starting point for learning Blender, and there are several are
 - Exploring advanced techniques in Blender, such as animation, physics simulations, or character modeling
 - Incorporating the donut model into a larger scene or project
 - Sharing renders or animations created with the donut model on social media or portfolio websites
-
-## Acknowledgments
-
-This project is based on the Donut Tutorial by Blender Guru. I would like to express my gratitude to Blender Guru for providing such a comprehensive and beginner-friendly tutorial, which helped me learn the basics of Blender.
